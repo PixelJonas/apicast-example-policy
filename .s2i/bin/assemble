@@ -1,4 +1,0 @@
-#!/bin/sh
-
-echo "---> Copying policy source..."
-cp -Rf /tmp/src/. ./
